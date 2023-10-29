@@ -4,13 +4,10 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+![app_fitness](https://github.com/FilipeG12/Treino-e-Dieta-App/assets/115597412/c42399af-3c7b-4009-a7e4-e1b460546e34)
 
-A few resources to get you started if this is your first Flutter project:
+![app_fitness2](https://github.com/FilipeG12/Treino-e-Dieta-App/assets/115597412/c8466a2b-761f-4629-b1a6-99c1bcd4e700)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![app_fitness3](https://github.com/FilipeG12/Treino-e-Dieta-App/assets/115597412/dbc91390-3158-4fb9-a947-e1ba87331aa1)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
